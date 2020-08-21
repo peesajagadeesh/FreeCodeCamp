@@ -1,0 +1,19 @@
+{
+  "name": "apisandmicroservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peesajagadeesh/FreeCodeCamp.git"
+  },
+  "author": "jagadeesh p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peesajagadeesh/FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/peesajagadeesh/FreeCodeCamp#readme"
+}
